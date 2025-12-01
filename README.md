@@ -17,7 +17,7 @@ I'm a software developer specializing in application creation, web development, 
 
 - 🥇 **1st Place** as head pilot in **[TAC Challenge](https://tacchallenge.com/)** - the biggest competition in Norway focused on remotely operated and autonomous underwater vehicles (ROV)
 - 🌍 Qualified team for **[MATE ROV World Championship](https://materovcompetition.org/)** in USA as head pilot
-- 🎓 Presenting master thesis work at the **northernmost conference within Artificial Intelligence and Deep Learning** **[(NLDL)](https://www.nldl.org/)** in the world in **2026**
+- 🎓 Presenting work and results achieved during master's thesis at the **northernmost conference within Artificial Intelligence and Deep Learning** **[(NLDL)](https://www.nldl.org/)** in the world in **2026**
 
 
 ## 📫 Let's Connect
