@@ -11,7 +11,7 @@ I'm a software developer specializing in application creation, web development, 
 - 🔭 Building applications and websites with focus on user experience
 - 📊 Structuring and organizing complex datasets
 - 🎨 Creating visual representations of data through web technologies
-- 🤖 Working with AI and machine learning applications
+- 🤖 Working with RAG, AI, and machine learning applications
 
 ## 🏆 Achievements
 
